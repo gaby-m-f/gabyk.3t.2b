@@ -1,8 +1,8 @@
 :root {
   --verde: #000000;
   --branca: #FFFFFF;
-  --luz: rgb(206, 168, 87);
-  --preto: #e4db5f;
+  --luz: rgb(0, 0, 0);
+  --preto: #e6e2e2;
   --rosa: #F85B72;
 }
 
@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Justin', sans-serif;
   min-height: 100vh;
 }
 
